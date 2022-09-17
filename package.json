@@ -6,6 +6,17 @@
   "author": "jrock2004",
   "license": "Apache-2.0",
   "private": false,
+  "bugs": "https://github.com/jrock2004/eslint-config/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrock2004/eslint-config.git",
+    "homepage": "https://github.com/jrock2004/eslint-config"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config"
+  ],
   "engines": {
     "node": ">=14.0.0"
   },
