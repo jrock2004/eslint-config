@@ -13,9 +13,17 @@
     "index.js"
   ],
   "devDependencies": {
-    "eslint": "^8.23.1"
+    "eslint": "^8.23.1",
+    "husky": "^8.0.0"
   },
   "peerDependencies": {
     "eslint": ">=8.23.1"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
   }
 }
