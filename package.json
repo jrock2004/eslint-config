@@ -1,0 +1,21 @@
+{
+  "name": "@jrock2004/eslint-config",
+  "version": "1.0.0",
+  "description": "My personal eslint config that I use",
+  "main": "index.js",
+  "author": "jrock2004",
+  "license": "ISC",
+  "private": false,
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.23.1"
+  }
+}
