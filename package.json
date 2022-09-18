@@ -1,6 +1,6 @@
 {
   "name": "@jrock2004/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My personal eslint config that I use",
   "main": "index.js",
   "author": "jrock2004",
